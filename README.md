@@ -1,3 +1,4 @@
+![Logo](https://github.com/SquarerFive/bf2redux/raw/master/core/images/logos/BF2Redux_SquarerFive.png)
 # BF2MC and BF2 Redux (or BF2 Redux as MC is based off BF2 mechanics).
 
 ## What is this project?
