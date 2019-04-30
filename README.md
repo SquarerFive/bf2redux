@@ -5,3 +5,6 @@ We are planning on remaking Battlefield 2 and Battlefield 2 Modern Combat from s
 
 ## What are the terms of use?
 Well, everyone is free to help develop this project but any vandalism is not tolerated.
+
+## How to install
+<insert instructions here>
