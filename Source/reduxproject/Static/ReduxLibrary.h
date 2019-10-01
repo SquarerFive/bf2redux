@@ -1,12 +1,12 @@
-﻿// ReduxProject
+// ReduxProject
 // Aiden Soedjarwo. 2019
 // SquarerFive.
 
 /*
 License Notice:
 
-This code may only be used in Redux Project or in a non-profit project.
-Please do not redistribute or sell this as a seperate product.
+MIT, provided AS IS with no warranties.
+You may study, modify or use this code. 
 */
 #pragma once
 
