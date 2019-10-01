@@ -9,3 +9,4 @@ Well, everyone is free to help develop this project but any vandalism is not tol
 
 ## How to install
 This is not ready for end-use. You may clone the project using GIT to help contribute.
+The source files are available in the Source/ directory. You will need to create a project in Unreal Engine 4 to compile and use them. It will also need to be retargeted.
